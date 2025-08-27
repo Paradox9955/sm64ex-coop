@@ -1,0 +1,6 @@
+[submodule "Cleaner-Aesthetics"]
+	path = Cleaner-Aesthetics
+	url = https://github.com/CrashCrod/Cleaner-Aesthetics
+[submodule "Render96"]
+	path = Render96
+	url = https://github.com/pokeheadroom/RENDER96-HD-TEXTURE-PACK
