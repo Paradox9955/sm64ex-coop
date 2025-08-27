@@ -12,3 +12,4 @@ A collection of texture packs for the SM64 PC Ports:
 - [Redrawn](https://sm64pc.info/downloads/texture_pack/redrawn.zip)
 - [Render96](https://github.com/pokeheadroom/RENDER96-HD-TEXTURE-PACK)
 - [Resrgan Faithful](https://sm64pc.info/downloads/texture_pack/resrgan_n64_faithful.zip)
+- [SM64 Reloaded](https://evilgames.eu/files/texture-packs/sm64-reloaded-v2.5.0-pc-hd.zip)
