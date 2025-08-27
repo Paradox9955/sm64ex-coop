@@ -4,11 +4,3 @@
 [submodule "Render96"]
 	path = Render96
 	url = https://github.com/pokeheadroom/RENDER96-HD-TEXTURE-PACK
-[submodule "SM64-HDS"]
-	path = SM64-HDS
-	url = https://github.com/allnought/Super-Mario-64-HDS
-[submodule "SM64-Reloaded"]
-	path = SM64-Reloaded
-	url = https://github.com/GhostlyDark/SM64-Reloaded
-
-
